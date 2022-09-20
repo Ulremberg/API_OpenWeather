@@ -71,5 +71,5 @@ $ npm test
 
 - /name/:name
 - /coords/:lat/:lon
-- /documentation"
+- /documentation
 
