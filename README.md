@@ -32,7 +32,7 @@ Dentro da pasta do projeto, crie a imagem:
 $ docker build . -t <nome que desejar>
 ```
 
-Rode o container, a porta 3000 está definida no Dockerfile que será executada:
+Rode o container, a porta 3000 está definida no Dockerfile que será a porta executada:
 
 ```
 $ docker run -p 3000:3000 <nome dado ao container>
