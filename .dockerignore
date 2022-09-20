@@ -1,0 +1,10 @@
+modules/*
+*/temp*
+*/*/temp*
+temp?
+docs
+my-stack.dab
+docker-compose.overrride.yml
+test*
+*.md
+!README.md
