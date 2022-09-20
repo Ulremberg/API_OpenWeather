@@ -63,7 +63,8 @@ Para executar o teste use o comando:
 $ npm test
 ```
 
-### Portas:
+### Porta:
+Caso não seja configurado uma porta no arquivo .env:
 
 - http://localhost:3000
 
