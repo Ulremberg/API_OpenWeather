@@ -4,4 +4,4 @@ COPY package.json /index
 RUN npm install 
 COPY . /index
 EXPOSE 3000
-CMD [ "npm", "run", "swagger-autogen" ]
+CMD [ "npm", "run", "doc" ]
